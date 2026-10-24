@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ENQ-MVM0RTGJ",
+    "fullName": "Arun Kumar",
+    "phone": "9840123456",
+    "email": "arun.kumar@example.com",
+    "service": "wedding_photography",
+    "eventDate": "2026-11-20",
+    "eventLocation": "Madurai",
+    "projectDetails": "Authentic 2-day traditional Tamil wedding with reception",
+    "createdAt": "2026-10-24T06:30:16.291Z",
+    "status": "new"
+  }
+]
